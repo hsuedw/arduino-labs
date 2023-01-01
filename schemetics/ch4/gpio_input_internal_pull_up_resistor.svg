@@ -1,0 +1,36 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <text fill="#0000ff" font-size="22.61728" text-anchor="middle" font-family="serif" stroke="null" id="s_10" y="100.70563" x="248.04595">Arduino</text>
+  <polyline id="Li2" points="270,160 300,160 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li3" points="270,180 300,180 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="300,160 310,170  300,180 " id="Li5"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="270,160 270,180 " id="Li6"/>
+  <text x="206.66667" y="176.26667" id="s_1" stroke="null" font-family="serif" text-anchor="middle" font-size="20" fill="#0000ff">LED (pin 6)</text>
+  <path d="m350,170l5,0l3,-5l5,10l5,-10l5,10l5,-10l5,10l3,-5l4,0" fill="none" stroke="#7f0000" stroke-width="1.5" id="R1"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="310,170 350,170 " id="Li7"/>
+  <path d="m430,170l16,0l0,-8l8,8l-8,8l0,-8m8,-9l0,18m0,-9l16,0m0,-20m0,40m0,-20m-14,-2l5.8,-5.6l-1.8,-1.9l4.7,-0.7l-1.05,4.35l-1.65,-1.85m-6,-2.3l5.7,-5.4l-1.7,-2.1l4.8,-1.2l-1.7,4.95l-1.5,-1.65" fill="#7f0000" stroke="#7f0000" stroke-width="1.5" id="di0"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="390,170 430,170 " id="Li8"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="470,170 500,170  500,200 " id="Li9"/>
+  <path d="m500,200l0,12m-10,0l20,0m-5,4l-10,0m2,4l6,0" fill="none" stroke="#7f0000" stroke-width="1.5" id="P2"/>
+  <polyline id="Li13" points="310,300 280,300 270,310 280,320 310,320 310,300 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <text fill="#0000ff" font-size="20" text-anchor="middle" font-family="serif" stroke="null" id="s_2" y="345.26667" x="209">SWITCH (pin 2)</text>
+  <polyline id="Li14" points="290,320 290,380 200,380 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li15" points="200,70 290,70  290,160 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <path id="s0" stroke-width="1.5" stroke="#7f0000" fill="none" d="m370,330l0,6.5a3.5,3.5 90 1 1 0,7a3.5,3.5 90 1 1 0,-7m0,20a3.5,3.5 90 1 1 0,7a3.5,3.5 90 1 1 0,-7m0,7l0,6.5m3.5,-30l8,20m-23,0"/>
+  <polyline id="Li17" points="290,180 290,300 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li20" points="370,370 370,380 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <path id="P1" stroke-width="1.5" stroke="#7f0000" fill="none" d="m370,380l0,12m-10,0l20,0m-5,4l-10,0m2,4l6,0"/>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_6" y="155.6" x="373.8">330Ω</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_18" y="351.57143" x="462.85714">open: 輸入 1 (LED 亮)</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_20" y="368.57143" x="462.85714">close: 輸入 0 (LED 滅)</text>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="270,310 170,310 " id="Li21"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="230,310 230,290 " id="Li22"/>
+  <path d="m227.5,310a2.5,2.5 0 1 1 5,0a2.5,2.5 0 1 1 -5,0" stroke="#000000" stroke-width="1.5" fill="#000000" id="Do2"/>
+  <path d="m230,250l0,5l5,3l-10,5l10,5l-10,5l10,5l-10,5l5,3l0,4" fill="none" stroke="#7f0000" stroke-width="1.5" id="R2"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="230,250 230,240 " id="Li23"/>
+  <path d="m226.5,240a3.5,3.5 0 1 1 7,0a3.5,3.5 0 1 1 -7,0" stroke="#000000" stroke-width="1.5" fill="#ffffff" id="Do3"/>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_3" y="237" x="245.49432">Vcc</text>
+  <polyline id="Li24" points="310,310 370,310  370,330  370,330 " stroke-width="1.5" stroke="#000000" fill="none"/>
+ </g>
+</svg>

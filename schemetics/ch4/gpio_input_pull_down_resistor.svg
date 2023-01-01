@@ -1,0 +1,38 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <text x="248.04595" y="100.70563" id="s_10" stroke="null" font-family="serif" text-anchor="middle" font-size="22.61728" fill="#0000ff">Arduino</text>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="270,160 300,160 " id="Li2"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="270,180 300,180 " id="Li3"/>
+  <polyline id="Li5" points="300,160 310,170  300,180 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li6" points="270,160 270,180 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <text fill="#0000ff" font-size="20" text-anchor="middle" font-family="serif" stroke="null" id="s_1" y="176.26667" x="206.66667">LED (pin 6)</text>
+  <path id="R1" stroke-width="1.5" stroke="#7f0000" fill="none" d="m350,170l5,0l3,-5l5,10l5,-10l5,10l5,-10l5,10l3,-5l4,0"/>
+  <polyline id="Li7" points="310,170 350,170 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <path id="di0" stroke-width="1.5" stroke="#7f0000" fill="#7f0000" d="m430,170l16,0l0,-8l8,8l-8,8l0,-8m8,-9l0,18m0,-9l16,0m0,-20m0,40m0,-20m-14,-2l5.8,-5.6l-1.8,-1.9l4.7,-0.7l-1.05,4.35l-1.65,-1.85m-6,-2.3l5.7,-5.4l-1.7,-2.1l4.8,-1.2l-1.7,4.95l-1.5,-1.65"/>
+  <polyline id="Li8" points="390,170 430,170 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li9" points="470,170 500,170  500,200 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <path id="P2" stroke-width="1.5" stroke="#7f0000" fill="none" d="m500,200l0,12m-10,0l20,0m-5,4l-10,0m2,4l6,0"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="310,300 280,300 270,310 280,320 310,320 310,300 " id="Li13"/>
+  <text x="189" y="315.26667" id="s_2" stroke="null" font-family="serif" text-anchor="middle" font-size="20" fill="#0000ff">SWITCH (pin 2)</text>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="290,320 290,380 200,380 " id="Li14"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="200,70 290,70  290,160 " id="Li15"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="310,310 370,310 " id="Li16"/>
+  <path d="m370,240l0,6.5a3.5,3.5 90 1 1 0,7a3.5,3.5 90 1 1 0,-7m0,20a3.5,3.5 90 1 1 0,7a3.5,3.5 90 1 1 0,-7m0,7l0,6.5m3.5,-30l8,20m-23,0" fill="none" stroke="#7f0000" stroke-width="1.5" id="s0"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="290,180 290,300 " id="Li17"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="370,280 370,320  370,330 " id="Li18"/>
+  <path d="m367.5,310a2.5,2.5 0 1 1 5,0a2.5,2.5 0 1 1 -5,0" stroke="#000000" stroke-width="1.5" fill="#000000" id="Do1"/>
+  <path d="m366.5,309.60001a2.5,2.5 0 1 1 5,0a2.5,2.5 0 1 1 -5,0" stroke="#000000" stroke-width="1.5" fill="#000000" id="Do2"/>
+  <path d="m366.5,210a3.5,3.5 0 1 1 7,0a3.5,3.5 0 1 1 -7,0" stroke="#000000" stroke-width="1.5" fill="#ffffff" id="Do3"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="370,210 370,240 " id="Li19"/>
+  <text x="391.8" y="209.6" id="s_4" stroke="null" font-family="serif" text-anchor="middle" font-size="14" fill="#0000ff">+5V</text>
+  <path d="m369.65095,330.00305l0.08726,4.99924l5.0516,2.91228l-9.91121,5.17376l10.08574,4.82471l-9.91121,5.17376l10.08574,4.82471l-9.91121,5.17376l5.0516,2.91228l0.06981,3.99939" fill="none" stroke="#7f0000" stroke-width="1.5" id="R2"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="370,370 370,380 " id="Li20"/>
+  <path d="m370,380l0,12m-10,0l20,0m-5,4l-10,0m2,4l6,0" fill="none" stroke="#7f0000" stroke-width="1.5" id="P1"/>
+  <text x="373.8" y="155.6" id="s_6" stroke="null" font-family="serif" text-anchor="middle" font-size="14" fill="#0000ff">330Ω</text>
+  <text x="397.8" y="350.6" id="s_9" stroke="null" font-family="serif" text-anchor="middle" font-size="14" fill="#0000ff">10kΩ</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_3" y="362.91477" x="433.99432">pull-down resistor</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_5" y="256.91477" x="463.99432">open: 輸入 0 (LED 滅)</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_7" y="273.91477" x="464.99432">close: 輸入 1 (LED 亮)</text>
+ </g>
+</svg>
