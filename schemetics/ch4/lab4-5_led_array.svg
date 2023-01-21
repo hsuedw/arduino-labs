@@ -1,0 +1,56 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <text x="248.04595" y="100.70563" id="s_10" stroke="null" font-family="serif" text-anchor="middle" font-size="22.61728" fill="#0000ff">Arduino</text>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="270,160 300,160 " id="Li2"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="270,180 300,180 " id="Li3"/>
+  <polyline id="Li5" points="300,160 310,170  300,180 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li6" points="270,160 270,180 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <path id="R1" stroke-width="1.5" stroke="#7f0000" fill="none" d="m350,170l5,0l3,-5l5,10l5,-10l5,10l5,-10l5,10l3,-5l4,0"/>
+  <polyline id="Li7" points="310,170 350,170 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <path id="di0" stroke-width="1.5" stroke="#7f0000" fill="#7f0000" d="m430,170l16,0l0,-8l8,8l-8,8l0,-8m8,-9l0,18m0,-9l16,0m0,-20m0,40m0,-20m-14,-2l5.8,-5.6l-1.8,-1.9l4.7,-0.7l-1.05,4.35l-1.65,-1.85m-6,-2.3l5.7,-5.4l-1.7,-2.1l4.8,-1.2l-1.7,4.95l-1.5,-1.65"/>
+  <polyline id="Li8" points="390,170 430,170 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <path id="P2" stroke-width="1.5" stroke="#7f0000" fill="none" d="m500,380l0,12m-10,0l20,0m-5,4l-10,0m2,4l6,0"/>
+  <polyline fill="none" stroke="#000000" stroke-width="1.5" points="200,70 290,70  290,160 " id="Li15"/>
+  <text x="363.8" y="155.6" id="s_6" stroke="null" font-family="serif" text-anchor="middle" font-size="14" fill="#0000ff">330Ω</text>
+  <text x="218.66666" y="173.99999" id="s_4" stroke="null" font-family="serif" text-anchor="middle" font-size="14" fill="#0000ff">LED1 (pin 2)</text>
+  <polyline id="Li11" points="270,210 300,210 310,220 300,230 270,230 270,210 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li12" points="270,260 300,260 310,270 300,280 270,280 270,260 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li13" points="270,310 300,310  310,320  300,330  270,330  270,310 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li14" points="270,360 300,360  310,370  300,380  270,380  270,360 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <path id="R2" stroke-width="1.5" stroke="#7f0000" fill="none" d="m350,220l5,0l3,-5l5,10l5,-10l5,10l5,-10l5,10l3,-5l4,0"/>
+  <path id="R3" stroke-width="1.5" stroke="#7f0000" fill="none" d="m350,270l5,0l3,-5l5,10l5,-10l5,10l5,-10l5,10l3,-5l4,0"/>
+  <path id="R4" stroke-width="1.5" stroke="#7f0000" fill="none" d="m350,320l5,0l3,-5l5,10l5,-10l5,10l5,-10l5,10l3,-5l4,0"/>
+  <path id="R5" stroke-width="1.5" stroke="#7f0000" fill="none" d="m350,370l5,0l3,-5l5,10l5,-10l5,10l5,-10l5,10l3,-5l4,0"/>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_2" y="223.99999" x="216.66666">LED2 (pin 3)</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_3" y="271.99999" x="218.66666">LED3 (pin 4)</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_5" y="322.99999" x="218.66666">LED4 (pin 5)</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_8" y="373.99998" x="220.66666">LED5 (pin 6)</text>
+  <polyline id="Li16" points="310,220 350,220 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <path id="di1" stroke-width="1.5" stroke="#7f0000" fill="#7f0000" d="m430,220l16,0l0,-8l8,8l-8,8l0,-8m8,-9l0,18m0,-9l16,0m0,-20m0,40m0,-20m-14,-2l5.8,-5.6l-1.8,-1.9l4.7,-0.7l-1.05,4.35l-1.65,-1.85m-6,-2.3l5.7,-5.4l-1.7,-2.1l4.8,-1.2l-1.7,4.95l-1.5,-1.65"/>
+  <path id="di2" stroke-width="1.5" stroke="#7f0000" fill="#7f0000" d="m430,270l16,0l0,-8l8,8l-8,8l0,-8m8,-9l0,18m0,-9l16,0m0,-20m0,40m0,-20m-14,-2l5.8,-5.6l-1.8,-1.9l4.7,-0.7l-1.05,4.35l-1.65,-1.85m-6,-2.3l5.7,-5.4l-1.7,-2.1l4.8,-1.2l-1.7,4.95l-1.5,-1.65"/>
+  <path id="di3" stroke-width="1.5" stroke="#7f0000" fill="#7f0000" d="m430,320l16,0l0,-8l8,8l-8,8l0,-8m8,-9l0,18m0,-9l16,0m0,-20m0,40m0,-20m-14,-2l5.8,-5.6l-1.8,-1.9l4.7,-0.7l-1.05,4.35l-1.65,-1.85m-6,-2.3l5.7,-5.4l-1.7,-2.1l4.8,-1.2l-1.7,4.95l-1.5,-1.65"/>
+  <path id="di4" stroke-width="1.5" stroke="#7f0000" fill="#7f0000" d="m430,370l16,0l0,-8l8,8l-8,8l0,-8m8,-9l0,18m0,-9l16,0m0,-20m0,40m0,-20m-14,-2l5.8,-5.6l-1.8,-1.9l4.7,-0.7l-1.05,4.35l-1.65,-1.85m-6,-2.3l5.7,-5.4l-1.7,-2.1l4.8,-1.2l-1.7,4.95l-1.5,-1.65"/>
+  <polyline id="Li18" points="390,220 440,220 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li19" points="470,220 500,220 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li20" points="310,270 350,270 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li21" points="390,270 440,270 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li22" points="470,270 500,270 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li23" points="310,320 350,320 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li24" points="390,320 430,320 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li25" points="470,320 500,320 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li26" points="310,370 350,370 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li27" points="390,370 430,370 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li28" points="470,370 500,370 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li29" points="470,170 500,170  500,380 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li30" points="290,180 290,210 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li31" points="290,230 290,260 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li32" points="290,280 290,310 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li33" points="290,330 290,360 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li34" points="290,380 290,410  200,410 " stroke-width="1.5" stroke="#000000" fill="none"/>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_11" y="203.99999" x="367.33332">300Ω</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_13" y="255.66666" x="369.33332">300Ω</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_14" y="302.66666" x="365.33332">300Ω</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_15" y="354.66666" x="366.33332">300Ω</text>
+ </g>
+</svg>
