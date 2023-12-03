@@ -4,9 +4,9 @@
 
 byte buffer[8] = {0, 0, 0, 0, 0, 0, 0, 0};
 //char msg[] = "Arduino ";
-//char msg[] = "Angus ";
+char msg[] = "Angus ";
 //char msg[] = "Edward ";
-char msg[] = "Hello world! ";
+//char msg[] = "Hello world! ";
 int msgSize = sizeof(msg);
   
 const byte NOOP = 0x0;
@@ -38,9 +38,11 @@ void scroll(byte chr) {
 void setup() {
   // put your setup code here, to run once:
   pinMode(SS, OUTPUT);
-  pinMode(SS, OUTPUT);
   digitalWrite(SS, HIGH);
   SPI.begin();
+  SPI.setBitOrder(MSBFIRST);
+  SPI.setDataMode(SPI_MODE0);
+  SPI.setClockDivider(SPI_CLOCK_DIV16);
 
   max7219(SCANLIMIT, 7);
   max7219(DECODE, 0);
