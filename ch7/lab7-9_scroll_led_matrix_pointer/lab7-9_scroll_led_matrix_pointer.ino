@@ -6,7 +6,7 @@ byte buffer[8] = {0, 0, 0, 0, 0, 0, 0, 0};
 //char msg[] = "Arduino ";
 //char msg[] = "Angus ";
 //char msg[] = "Edward ";
-char msg[] = "hello world ";
+char msg[] = "Hello world! ";
 int msgSize = sizeof(msg);
   
 const byte NOOP = 0x0;
@@ -55,10 +55,10 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  char *pt = msg;
   byte chr;
 
-  while (chr = *pt++) {
+  for (int i = 0; i < msgSize; ++i) {
+    chr = msg[i];
     scroll(chr);
   }
 }
