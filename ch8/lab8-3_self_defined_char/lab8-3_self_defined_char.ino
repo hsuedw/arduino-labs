@@ -70,11 +70,11 @@ void setup() {
   lcd.createChar(5, sp[5]);
   
   lcd.home();
-  lcd.print("Invader");
+  lcd.print("Space Invader");
 }
 
 void loop() {
-  lcd.setCursor(8, 0);
+  lcd.setCursor(14, 0);
   lcd.write(index);
 
   if (++index > 5) {
